@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginTop="3dip"
+        android:orientation="horizontal"
+        android:paddingTop="15dip">
+
+        <ImageView
+            android:id="@+id/avater"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:layout_gravity="left"
+            android:layout_marginLeft="10dip"
+            android:background="@drawable/header" />
+
+        <TextView
+            android:id="@+id/textname"
+            android:layout_width="150dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dip"
+            android:text="ketty"
+            android:textColor="#999999"
+            android:textSize="18sp" />
+
+        <!--<Button-->
+        <!--android:layout_width="48dip"-->
+        <!--android:layout_height="22dip"-->
+        <!--android:layout_gravity="end"-->
+        <!--android:layout_marginLeft="180dip"-->
+        <!--android:background="@drawable/tab2button_fenlei"-->
+        <!--android:text="关注"-->
+        <!--android:textColor="#4EEE94"-->
+        <!--android:textSize="15sp" />-->
+
+        <Button
+            android:layout_width="45dip"
+            android:layout_height="18dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="17dip"
+            android:background="@drawable/tab2button_fenlei2"
+            android:text="干货"
+            android:textColor="@android:color/holo_blue_bright"
+            android:textSize="12sp" />
+
+        <Button
+            android:layout_width="45dip"
+            android:layout_height="18dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dip"
+            android:background="@drawable/tab2button_fenlei"
+            android:text="新鲜"
+            android:textColor="@color/colorUserInfoTop"
+            android:textSize="12sp" />
+
+        <Button
+            android:layout_width="45dip"
+            android:layout_height="18dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dip"
+            android:background="@drawable/tab2button_fenlei3"
+            android:text="创新"
+            android:textColor="#FF0000"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_title2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginTop="8dip"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:text="Volley源码解析泡在网上的日子"
+        android:textColor="@android:color/primary_text_light_nodisable"
+        android:textSize="21sp" />
+
+    <ImageView
+        android:id="@+id/item2img"
+        android:layout_width="match_parent"
+        android:layout_height="250dip"
+        android:src="@drawable/arti" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        android:orientation="horizontal">
+
+        <ImageView
+
+            android:layout_width="13dip"
+            android:layout_height="12dip"
+            android:layout_marginLeft="18dip"
+            android:layout_marginTop="3dip"
+            android:alpha="0.5"
+            android:background="@drawable/leftquote" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dip"
+            android:layout_marginRight="8dip"
+
+            android:layout_marginTop="3dip"
+            android:ellipsize="end"
+            android:lineSpacingExtra="7dip"
+            android:maxLines="2"
+            android:minLines="1"
+
+            android:text="        这是一个针对技术开发者的一个应用，你可以在掘金上获取最新最优质的技术干货，不仅仅是Android知识、前端、
+        后端以至于产品和设计都有涉猎，想成为全栈工程师的朋友不要错过！
+Android为我们提供了两种HTTP交互的方式：HttpURLConnection 和 Apache HTTP Client，虽然两者都支持HTTPS，
+流的上传和下载，配置超时，IPv6和连接池，已足够满足我们各种HTTP请求的需求。但更高效的使用HTTP 可以让您的应用运行更快、
+更节省流量。而OkHttp库就是为此而生。"
+            android:textColor="#8F8F8F" />
+
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dip"
+        android:layout_marginTop="10dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+ >
+
+        <Button
+            android:id="@+id/likeheart"
+            android:layout_width="16dip"
+            android:layout_height="16dip"
+            android:layout_marginStart="10dip"
+            android:alpha="0.6"
+            android:background="@drawable/like" />
+
+        <TextView
+            android:id="@+id/like_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:alpha="0.5"
+            android:text="2658" />
+
+
+        <Button
+
+            android:layout_width="16dip"
+            android:layout_height="16dip"
+            android:layout_marginLeft="10dip"
+            android:alpha="0.6"
+            android:background="@drawable/commen" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:alpha="0.5"
+            android:text="152" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="190dip"
+            android:singleLine="true"
+            android:text="1分钟前"
+            android:textColor="#ABABAB"
+            android:textSize="13sp" />
+
+    </LinearLayout>
+</LinearLayout>

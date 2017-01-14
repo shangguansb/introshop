@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\cpb_error_state_selector.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.dmytrodanylyk.circular-progress-button\\library\\1.1.3\\res\\color\\cpb_error_state_selector.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\default_text_color.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\color\\default_text_color.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\folder_text_color.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\color\\folder_text_color.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\cpb_complete_state_selector.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.dmytrodanylyk.circular-progress-button\\library\\1.1.3\\res\\color\\cpb_complete_state_selector.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\cpb_idle_state_selector.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.dmytrodanylyk.circular-progress-button\\library\\1.1.3\\res\\color\\cpb_idle_state_selector.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    }
+]

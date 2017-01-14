@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\tab0.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\tab0.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\item1.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\item1.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\user_social_info_activity.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\user_social_info_activity.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\activity_default.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\activity_default.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\maplayout.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\maplayout.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\tab1.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\tab1.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\superactivitytoast_button.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\layout\\superactivitytoast_button.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\registerfragement.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\registerfragement.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\tab2.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\tab2.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\user_active_item.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\user_active_item.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\supertoast.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\layout\\supertoast.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\login_register.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\login_register.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\tab3_child_fragement2.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\tab3_child_fragement2.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\tab3_child_fragement3.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\tab3_child_fragement3.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\cmp_customer_actionbar.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\cmp_customer_actionbar.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\lay.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\lay.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast_progresscircle.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\layout\\supercardtoast_progresscircle.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\loginfragement.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\loginfragement.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\superactivitytoast_progresshorizontal.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\layout\\superactivitytoast_progresshorizontal.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_camera.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\list_item_camera.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast_progresshorizontal.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\layout\\supercardtoast_progresshorizontal.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\item2.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\item2.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\loadmore.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\loadmore.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\tab3_child_fragement0.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\tab3_child_fragement0.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\dummy_layout.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\layout\\dummy_layout.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\tab2_.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\tab2_.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\article_activity.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\article_activity.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\comments_activity.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\comments_activity.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\dawdaw.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\dawdaw.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\superactivitytoast_progresscircle.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\layout\\superactivitytoast_progresscircle.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\tab3.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\tab3.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\layout\\supercardtoast.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_image.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\list_item_image.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\item4.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\item4.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_folder.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\list_item_folder.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\recycleadapterxml.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\recycleadapterxml.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\supercardtoast_button.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\layout\\supercardtoast_button.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_multi_image.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\fragment_multi_image.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\tab3_child_fragement1.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\layout\\tab3_child_fragement1.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\layout\\alert_dialog.xml"
+    }
+]

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.UserSocialInfoActivity"/>
+      <point      
+        x = "1808"      
+        y = "172"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.mapActivity"/>
+      <point      
+        x = "1140"      
+        y = "28"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.LogIn"/>
+      <point      
+        x = "1636"      
+        y = "128"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.commentsActivity"/>
+      <point      
+        x = "1984"      
+        y = "336"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.Activity_setting"/>
+      <point      
+        x = "1016"      
+        y = "112"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.About"/>
+      <point      
+        x = "1492"      
+        y = "280"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.MainActivity"/>
+      <point      
+        x = "796"      
+        y = "164"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.SearchActivity"/>
+      <point      
+        x = "1556"      
+        y = "-80"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.MultiImageSelectorActivity"/>
+      <point      
+        x = "340"      
+        y = "320"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.MessageActivity"/>
+      <point      
+        x = "2024"      
+        y = "344"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.IntroShop.articleActivity"/>
+      <point      
+        x = "988"      
+        y = "-112"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

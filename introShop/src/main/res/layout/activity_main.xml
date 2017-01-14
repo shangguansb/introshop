@@ -1,0 +1,94 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:Introshop="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="com.example.IntroShop.MainActivity">
+
+
+    <com.example.IntroShop.customView.DiyViewpager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sdadasd " />
+    </com.example.IntroShop.customView.DiyViewpager>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+
+        android:background="@drawable/tabbg"
+        android:orientation="horizontal">
+
+        <com.example.IntroShop.ChangeColor
+            android:id="@+id/id1"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            Introshop:tab_color="#ff45c01a"
+            Introshop:tab_icon="@drawable/indicator_code_lock_point_area_red_holo"
+            Introshop:tab_text="@string/tab_me"
+            Introshop:tab_text_size="12sp" />
+
+        <com.example.IntroShop.ChangeColor
+            android:id="@+id/id2"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            Introshop:tab_color="#ff45c01a"
+            Introshop:tab_icon="@drawable/glob2"
+            Introshop:tab_text="@string/tab_contact"
+            Introshop:tab_text_size="12sp" />
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:color/transparent">
+
+            <com.example.IntroShop.ChangeColor
+                android:id="@+id/id3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="10dp"
+
+                Introshop:tab_color="#ff45c01a"
+                Introshop:tab_icon="@drawable/id3"
+                Introshop:tab_text="@string/tab_found"
+                Introshop:tab_text_size="12sp" />
+
+            <com.example.IntroShop.ChangeColor
+                android:id="@+id/tab3menu"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:paddingBottom="10dp"
+                android:visibility="gone"
+                Introshop:tab_color="#EEC900"
+
+                Introshop:tab_icon="@drawable/tab2menu"
+                Introshop:tab_text="@string/menu"
+                Introshop:tab_text_size="12sp" />
+        </FrameLayout>
+
+
+        <com.example.IntroShop.ChangeColor
+            android:id="@+id/id4"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            Introshop:tab_color="#EEC900"
+            Introshop:tab_icon="@drawable/id4"
+            Introshop:tab_text="@string/tab_me"
+            Introshop:tab_text_size="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

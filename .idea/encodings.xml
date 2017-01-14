@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/code2/Horizon-master/Horizon/app/build/intermediates/exploded-aar/com.yalantis/eqwaves/1.0/jars/classes.jar!/com/yalantis/waves/util/Horizon.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/MultiImageSelectorActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/MultiImageSelectorFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/adapter/FolderAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/adapter/ImageGridAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/bean/Folder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/bean/Image.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/model/_User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/utils/FileUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/utils/ScreenUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/utils/TimeUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/view/SquareFrameLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/java/com/example/IntroShop/view/SquaredImageView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/color/default_text_color.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/color/folder_text_color.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/asv.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/asy.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/btn_back.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/btn_selected.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/btn_unselected.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/default_check.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/default_check_s.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/default_error.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/ic_action_accept.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/ic_menu_back.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/selector_indicator.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/tab2menu.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-hdpi/text_indicator.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/drawable-mdpi/action_btn.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/layout/activity_default.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/layout/cmp_customer_actionbar.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/layout/fragment_multi_image.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/layout/list_item_camera.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/layout/list_item_folder.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/layout/list_item_image.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/introShop/src/main/res/values-zh/strings.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,33 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        446c8b30 com.example.IntroShop/.MainActivity filter 446ddc00
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.example.IntroShop]
+      Signing KeySets: 1, 4
+
+Packages:
+  Package [com.example.IntroShop] (43c738d0):
+    userId=10229 gids=[3003]
+    pkg=Package{445c1148 com.example.IntroShop}
+    codePath=/data/app/com.example.IntroShop-2.apk
+    resourcePath=/data/app/com.example.IntroShop-2.apk
+    nativeLibraryPath=/data/app-lib/com.example.IntroShop-2
+    versionCode=1 targetSdk=19
+    versionName=1.0
+    applicationInfo=ApplicationInfo{445d1098 com.example.IntroShop}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/com.example.IntroShop
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2016-03-10 10:31:04
+    firstInstallTime=2016-03-07 16:13:52
+    lastUpdateTime=2016-03-10 10:31:04
+    signatures=PackageSignatures{43c73998 [43c054c0]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true blocked=false stopped=false notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.INTERNET

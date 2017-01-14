@@ -1,0 +1,85 @@
+AGGREGATED OVER LAST 24 HOURS:
+Per-Package Stats:
+  * com.example.IntroShop / u0a229:
+      * com.example.IntroShop / u0a229:
+               TOTAL: 31% (10MB-341MB-443MB/9.0MB-329MB-436MB over 171)
+                 Top: 31% (10MB-341MB-443MB/9.0MB-329MB-436MB over 171)
+          (Last Act): 2.4% (132MB-195MB-214MB/130MB-192MB-212MB over 8)
+            (Cached): 9.8% (69MB-181MB-308MB/67MB-178MB-303MB over 19)
+
+Summary:
+  * com.example.IntroShop / u0a229:
+           TOTAL: 31% (10MB-341MB-443MB/9.0MB-329MB-436MB over 171)
+             Top: 31% (10MB-341MB-443MB/9.0MB-329MB-436MB over 171)
+      (Last Act): 2.4% (132MB-195MB-214MB/130MB-192MB-212MB over 8)
+        (Cached): 9.8% (69MB-181MB-308MB/67MB-178MB-303MB over 19)
+
+Run time Stats:
+  SOff/Norm: +28m36s754ms
+       Mod : +5m24s974ms
+       Low : +2m19s494ms
+       Crit: +11m48s289ms
+  SOn /Norm: +6h21m59s5ms
+       Mod : +2h30m16s68ms
+       Low : +35m53s684ms
+       Crit: +3h53m52s179ms
+      TOTAL: +14h10m10s447ms
+
+          Start time: 2016-03-09 08:56:44
+  Total elapsed time: +1d1h24m30s6ms (partial) libdvm.so chromeview
+
+AGGREGATED OVER LAST 3 HOURS:
+Per-Package Stats:
+  * com.example.IntroShop / u0a229:
+      * com.example.IntroShop / u0a229:
+               TOTAL: 9.1% (275MB-312MB-370MB/241MB-281MB-360MB over 13)
+                 Top: 9.1% (275MB-312MB-370MB/241MB-281MB-360MB over 13)
+          (Last Act): 0.13%
+            (Cached): 1.5% (93MB-195MB-308MB/91MB-192MB-300MB over 4)
+
+Summary:
+  * com.example.IntroShop / u0a229:
+           TOTAL: 9.1% (275MB-312MB-370MB/241MB-281MB-360MB over 13)
+             Top: 9.1% (275MB-312MB-370MB/241MB-281MB-360MB over 13)
+      (Last Act): 0.13%
+        (Cached): 1.5% (93MB-195MB-308MB/91MB-192MB-300MB over 4)
+
+Run time Stats:
+  SOff/Mod : +3m35s610ms
+       Low : +1m36s171ms
+       Crit: +9m1s73ms
+  SOn /Norm: +32m6s328ms
+       Mod : +27m19s612ms
+       Low : +13m41s247ms
+       Crit: +1h41m52s719ms
+      TOTAL: +3h9m12s760ms
+
+          Start time: 2016-03-09 22:30:00
+  Total elapsed time: +12h4m3s904ms (partial) libdvm.so chromeview
+
+CURRENT STATS:
+Per-Package Stats:
+  * com.example.IntroShop / u0a229:
+      * com.example.IntroShop / u0a229:
+               TOTAL: 44% (275MB-312MB-370MB/241MB-281MB-360MB over 13)
+                 Top: 44% (275MB-312MB-370MB/241MB-281MB-360MB over 13)
+          (Last Act): 0.62%
+            (Cached): 7.5% (93MB-195MB-308MB/91MB-192MB-300MB over 4)
+
+Summary:
+  * com.example.IntroShop / u0a229:
+           TOTAL: 44% (275MB-312MB-370MB/241MB-281MB-360MB over 13)
+             Top: 44% (275MB-312MB-370MB/241MB-281MB-360MB over 13)
+      (Last Act): 0.62%
+        (Cached): 7.5% (93MB-195MB-308MB/91MB-192MB-300MB over 4)
+
+Run time Stats:
+  SOff/Mod : +2s529ms
+  SOn /Norm: +14m28s924ms (running)
+       Mod : +50s772ms
+       Low : +1m20s926ms
+       Crit: +22m26s905ms
+      TOTAL: +39m10s56ms
+
+          Start time: 2016-03-10 10:27:03
+  Total elapsed time: +39m24s467ms (partial) libdvm.so chromeview

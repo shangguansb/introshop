@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.weixin.MainActivity" >
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_search"/>
+    <item
+        android:id="@+id/over"
+        android:actionProviderClass="@android:style/Widget.Holo.ActionButton.Overflow"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="更多">
+        <menu>
+            <item
+                android:id="@+id/group"
+                android:icon="@drawable/menu_group"
+                android:title="@string/menu_grour"/>
+            <item
+                android:id="@+id/addfri"
+                android:icon="@drawable/menu_add"
+                android:title="@string/menu_addfriend"/>
+            <item
+                android:id="@+id/scan"
+                android:icon="@drawable/menu_scan"
+                android:title="@string/menu_sacn"/>
+            <item
+                android:id="@+id/feed"
+                android:icon="@drawable/menu_feedback"
+                android:title="@string/menu_feedback"/>
+        </menu>
+    </item>
+
+</menu>

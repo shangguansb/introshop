@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dark_edit.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_dark_edit.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\order.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\order.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_small_down.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\settings_small_down.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchbut8.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\searchbut8.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_light_exit.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_light_exit.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\text_indicator.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\text_indicator.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leak_canary_notification.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-hdpi-v4\\leak_canary_notification.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\id_rainbowa.jpg",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\id_rainbowa.jpg"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leftquote.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\leftquote.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_marker.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\location_marker.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\asv.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\asv.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seaechbut.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\seaechbut.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shenghlue.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\shenghlue.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_accept.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dark_refresh.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_dark_refresh.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_code_lock_point_area_red_holo.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\indicator_code_lock_point_area_red_holo.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\glob2.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\glob2.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_discuss.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\ic_discuss.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maps_gps.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\maps_gps.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_indicator.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\selector_indicator.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aimp.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\aimp.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ava5.jpg",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\ava5.jpg"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camcorder_delete_button.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\camcorder_delete_button.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dark_redo.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_dark_redo.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu3.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\menu3.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a4u.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\a4u.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchbut4.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\searchbut4.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_check.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\default_check.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\like.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\like.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchbut7.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\searchbut7.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_glyph_username.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\profile_glyph_username.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\id1.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\id1.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_light_undo.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_light_undo.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_light_refresh.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_light_refresh.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_glyph_bio.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\profile_glyph_bio.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\id4.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\id4.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonsearch.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\buttonsearch.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_unselected.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\btn_unselected.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuan.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\yuan.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab2menu.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\tab2menu.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nux_dayone_landing_logo_small.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\nux_dayone_landing_logo_small.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\commen.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\commen.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rating.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\rating.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.pnikosis\\materialish-progress\\1.0\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dark_exit.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_dark_exit.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\love.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\love.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_light_share.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_light_share.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_light_info.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_light_info.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchbut2.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\searchbut2.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchbut3.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\searchbut3.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuan_white.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\yuan_white.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\direct_heart.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\direct_heart.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\btn_back.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_check_s.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\default_check_s.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_selected.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\btn_selected.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\asy.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\asy.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\likeicon.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\likeicon.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avira.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\avira.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_back.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\ic_menu_back.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_light_save.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_light_save.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\id2.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\id2.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dark_share.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_dark_share.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_icon_quan.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\share_icon_quan.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\header.jpg",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\header.jpg"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu.jpg",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\menu.jpg"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leak_canary_icon.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-hdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arti.jpg",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\arti.jpg"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item2img.jpg",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\item2img.jpg"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_light_edit.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_light_edit.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groups.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\groups.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nux_dayone_landing_logo_large.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\nux_dayone_landing_logo_large.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cart.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\cart.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fab_bg_normal.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.getbase\\floatingactionbutton\\1.10.1\\res\\drawable-hdpi-v4\\fab_bg_normal.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchbut6.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\searchbut6.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\config.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\config.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\presence_busy.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\presence_busy.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dark_save.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_dark_save.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\id3.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\id3.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\permalink_badge_commented.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\permalink_badge_commented.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gantanhao.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\gantanhao.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zw.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\zw.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\introshop.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\introshop.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dark_undo.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_dark_undo.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\register.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img1.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\img1.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\testhead.jpg",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\testhead.jpg"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_light_redo.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_light_redo.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dark_info.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable-hdpi\\icon_dark_info.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_error.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable-hdpi\\default_error.png"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fab_bg_mini.png",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.getbase\\floatingactionbutton\\1.10.1\\res\\drawable-hdpi-v4\\fab_bg_mini.png"
+    }
+]

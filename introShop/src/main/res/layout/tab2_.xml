@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <!--Toolbar-->
+    <!--<include layout="@layout/toolbar" />-->
+    <!--DrawerLayout-->
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/MyDrawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!--主布局-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            fab:fab_addButtonStrokeVisible="false">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#feFfFb"
+                    android:orientation="vertical">
+
+                    <android.support.v4.widget.SwipeRefreshLayout
+                        android:id="@+id/swipeTab2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+
+                        <!--<LinearLayout-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="match_parent"-->
+                        <!--android:background="#FFEFD5">-->
+
+
+                        <android.support.v7.widget.RecyclerView
+                            android:id="@+id/recyclerview"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:divider="#ffff0000" />
+
+
+                        <!--<android.support.v4.view.ViewPager-->
+                        <!--android:id="@+id/viewpager_message"-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content">-->
+
+                        <!--<android.support.v4.view.PagerTabStrip-->
+                        <!--android:id="@+id/tabstrip"-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="50dip"-->
+                        <!--android:gravity="center" />-->
+                        <!--</android.support.v4.view.ViewPager>-->
+
+                        <!--</LinearLayout>-->
+
+
+                    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+                </LinearLayout>
+
+                <!--<Button-->
+                <!--android:id="@+id/tabmessage"-->
+                <!--android:layout_width="38dip"-->
+                <!--android:layout_height="30dip"-->
+                <!--android:layout_marginLeft="302dip"-->
+                <!--android:layout_marginTop="50dip"-->
+                <!--android:background="@drawable/btn" />-->
+
+                <!--<Button-->
+                <!--android:id="@+id/testac"-->
+                <!--android:layout_width="38dip"-->
+                <!--android:layout_height="30dip"-->
+                <!--android:layout_marginLeft="302dip"-->
+                <!--android:layout_marginTop="100dip"-->
+                <!--android:background="@drawable/btn" />-->
+
+                <com.getbase.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/upbutton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp"
+                    android:layout_marginLeft="280dp"
+                    android:layout_marginTop="470dip"
+                    android:paddingBottom="13dip"
+                    android:src="@android:drawable/stat_sys_upload_done"
+                    android:visibility="gone"
+                    fab:fab_colorNormal="#8838da74"
+                    fab:fab_colorPressed="#88008B45"
+                    fab:fab_size="mini" />
+
+                <!--<com.getbase.floatingactionbutton.AddFloatingActionButton-->
+                <!--android:id="@+id/semi_transparent"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_centerHorizontal="true"-->
+                <!--android:layout_marginBottom="16dp"-->
+                <!--android:layout_marginLeft="280dp"-->
+                <!--android:layout_marginTop="470dip"-->
+                <!--android:src="@android:drawable/stat_sys_upload_done"-->
+                <!--fab:fab_colorNormal="@color/blue_semi_transparent"-->
+                <!--fab:fab_colorPressed="@color/blue_semi_transparent_pressed"-->
+                <!--fab:fab_plusIconColor="@color/white"-->
+                <!--fab:fab_size="mini" />-->
+            </FrameLayout>
+
+        </LinearLayout>
+        <!--侧滑菜单-->
+
+
+        <LinearLayout
+            android:layout_width="280dip"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:background="@android:color/transparent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="7dip"
+                android:layout_height="match_parent"
+                android:alpha="0.5"
+                android:background="@drawable/tab2_menu_shadow" />
+            <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+            <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/menu3" />
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:alpha="0.5"
+                            android:background="#121212" />
+
+                        <ImageView
+                            android:id="@+id/map"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:alpha="1"
+                            android:background="@drawable/maps_gps" />
+
+                    </FrameLayout>
+
+                </LinearLayout>
+            </ScrollView>
+            <!--</LinearLayout>-->
+
+
+            <!--<ListView-->
+            <!--android:id="@+id/lv_left_menu"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:divider="@null"-->
+            <!--android:text="DrawerLayout" />-->
+        </LinearLayout>
+
+
+    </android.support.v4.widget.DrawerLayout>
+</LinearLayout>

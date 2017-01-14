@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFfFa"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:background="@android:color/white"
+        android:clipToPadding="true"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/test"
+            android:layout_width="wrap_content"
+            android:layout_height="40dip"
+            android:orientation="horizontal">
+
+            <FrameLayout
+                android:layout_width="220dip"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="65dip"
+                android:layout_marginTop="6dip">
+
+                <Button
+                    android:id="@+id/button_search2"
+                    android:layout_width="26dip"
+                    android:layout_height="27.5dip"
+                    android:layout_marginLeft="3dip"
+                    android:layout_marginTop="3dip"
+                    android:alpha="0.5"
+                    android:background="@drawable/searchbut8" />
+
+                <Button
+                    android:id="@+id/button_search"
+                    android:layout_width="220dip"
+                    android:layout_height="33dip"
+                    android:background="@drawable/shape3" />
+            </FrameLayout>
+
+            <Button
+                android:id="@+id/Button_message"
+                android:layout_width="40dip"
+                android:layout_height="40dip"
+                android:layout_marginLeft="25dip"
+                android:layout_marginTop="2dip"
+                android:alpha="0.5"
+                android:background="@drawable/bell21" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.example.IntroShop.customView.MySwipeRefreshLayout
+            android:id="@+id/swiprefesh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="200dip"
+                        android:orientation="vertical">
+
+                        <android.support.v4.view.ViewPager
+                            android:id="@+id/Viewpagershow"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                        <ProgressBar
+                            android:id="@+id/process_bar"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true" />
+
+                        <FrameLayout
+                            android:id="@+id/description_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_marginBottom="-30dip"
+                            android:background="#77000000"
+                            android:gravity="center_vertical"
+                            android:minHeight="30dp"
+                            android:orientation="vertical"
+                            android:paddingLeft="10dp">
+
+                            <TextView
+                                android:id="@+id/viewpager_text"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:paddingTop="5dip"
+                                android:text="新时尚宠儿"
+                                android:textColor="#ffffff"
+                                android:textSize="15sp" />
+                        </FrameLayout>
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dip"
+                        android:layout_marginBottom="3dip"
+                        android:layout_marginTop="3dip"
+                        android:background="#77000000" />
+
+                    <ImageView
+                        android:id="@+id/imgtag1"
+                        android:layout_width="match_parent"
+                        android:layout_height="185dip"
+                        android:layout_weight="0.57" />
+
+                    <GridLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:columnCount="4"
+                        android:orientation="horizontal"
+                        android:rowCount="4">
+
+
+                        <ImageView
+                            android:id="@+id/rect1"
+                            android:layout_width="177dip"
+                            android:layout_height="177dip"
+                            android:layout_columnSpan="2"
+                            android:layout_gravity="fill"
+                            android:layout_rowSpan="2" />
+
+                        <ImageView
+                            android:id="@+id/rect2"
+                            android:layout_width="177dip"
+                            android:layout_height="177dip"
+                            android:layout_columnSpan="2"
+                            android:layout_gravity="fill"
+                            android:layout_marginLeft="5dip"
+                            android:layout_rowSpan="2" />
+
+                        <ImageView
+                            android:id="@+id/rect3"
+                            android:layout_width="177dip"
+                            android:layout_height="177dip"
+                            android:layout_columnSpan="2"
+                            android:layout_gravity="fill"
+                            android:layout_marginTop="5dip"
+                            android:layout_rowSpan="2" />
+
+
+                        <ImageView
+                            android:id="@+id/rect4"
+                            android:layout_width="87dip"
+                            android:layout_height="87dip"
+                            android:layout_columnSpan="1"
+                            android:layout_gravity="fill"
+                            android:layout_marginLeft="5dip"
+                            android:layout_marginTop="5dip"
+
+                            android:layout_rowSpan="1" />
+
+                        <ImageView
+                            android:id="@+id/rect5"
+                            android:layout_width="87dip"
+                            android:layout_height="87dip"
+                            android:layout_columnSpan="1"
+
+                            android:layout_marginLeft="2.5dip"
+                            android:layout_marginTop="5dip"
+                            android:layout_rowSpan="1" />
+
+
+                        <ImageView
+                            android:id="@+id/rect6"
+                            android:layout_width="87dip"
+                            android:layout_height="87dip"
+                            android:layout_columnSpan="1"
+                            android:layout_gravity="fill"
+                            android:layout_marginLeft="5dip"
+                            android:layout_marginTop="2.5dip"
+                            android:layout_rowSpan="1" />
+
+                        <ImageView
+                            android:id="@+id/rect7"
+                            android:layout_columnSpan="1"
+                            android:layout_gravity="fill"
+                            android:layout_marginLeft="2.5dip"
+                            android:layout_marginTop="2.5dip"
+                            android:layout_rowSpan="1"
+                            android:background="#8B3E2F" />
+
+
+                    </GridLayout>
+
+                    <FrameLayout
+                        android:id="@+id/log_res_parent"
+                        android:layout_width="match_parent"
+                        android:layout_height="180dip"
+                        android:layout_marginTop="1dip"
+                        android:background="#449774">
+
+
+                        <Button
+                            android:id="@+id/register_tab0"
+                            android:layout_width="90dip"
+                            android:layout_height="40dip"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="70dip"
+                            android:background="@drawable/shape4"
+                            android:text="注册"
+                            android:textColor="#FFFFFF" />
+
+                        <Button
+                            android:id="@+id/login_tab0"
+                            android:layout_width="90dip"
+                            android:layout_height="40dip"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="200dip"
+                            android:background="@drawable/shape4"
+                            android:text="登陆"
+                            android:textColor="#FFFFFF" />
+                    </FrameLayout>
+
+                    <ImageView
+                        android:id="@+id/tag1"
+                        android:layout_width="352dip"
+                        android:layout_height="300dip"
+                        android:layout_marginLeft="4dip"
+                        android:visibility="gone" />
+
+                    <LinearLayout
+                        android:id="@+id/showline"
+                        android:layout_width="352dip"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"></LinearLayout>
+                </LinearLayout>
+            </ScrollView>
+        </com.example.IntroShop.customView.MySwipeRefreshLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

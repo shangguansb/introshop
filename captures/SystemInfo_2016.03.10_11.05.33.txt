@@ -1,0 +1,35 @@
+Applications Memory Usage (kB):
+Uptime: 2386793 Realtime: 2386793
+
+** MEMINFO in pid 409 [com.example.IntroShop] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     2547     2544        0        0     8920     6611       40
+  Dalvik Heap   120821   120488        0        0   146180   136805     9375
+ Dalvik Other     3502     3444        0        0                           
+        Stack      204      204        0        0                           
+    Other dev    44436    10096        4        0                           
+     .so mmap     2102     1616       16        0                           
+    .jar mmap        0        0        0        0                           
+    .apk mmap       89        0       16        0                           
+    .ttf mmap     1000        0      804        0                           
+    .dex mmap     1512       36     1176        0                           
+   Other mmap        9        4        0        0                           
+     Graphics    65224    65224        0        0                           
+           GL    82700    82700        0        0                           
+      Unknown        0        0        0        0                           
+        TOTAL   324146   286356     2016        0   155100   143416     9415
+ 
+ Objects
+               Views:      238         ViewRootImpl:        1
+         AppContexts:        3           Activities:        1
+              Assets:        3        AssetManagers:        3
+       Local Binders:        7        Proxy Binders:       16
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

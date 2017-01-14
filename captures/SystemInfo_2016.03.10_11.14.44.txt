@@ -1,0 +1,83 @@
+Applications Graphics Acceleration Info:
+Uptime: 2938444 Realtime: 2938444
+
+** Graphics info for pid 11768 [com.example.IntroShop] **
+
+Recent DisplayList operations
+          DrawText
+          DrawText
+          DrawBitmap
+        DrawDisplayList
+          DrawBitmapRect
+          DrawText
+          DrawText
+          DrawBitmap
+        DrawDisplayList
+          DrawBitmapRect
+          DrawText
+          DrawText
+          DrawBitmap
+        DrawDisplayList
+          DrawBitmapRect
+          DrawText
+          DrawText
+          DrawBitmap
+  DrawPatch
+DrawRect
+DrawRect
+DrawRect
+DrawBitmapRect
+DrawRoundRect
+DrawRoundRect
+DrawBitmapRect
+DrawRect
+DrawBitmap
+DrawRect
+DrawRect
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawRect
+DrawRect
+DrawBitmapRect
+DrawBitmapRect
+DrawBitmapRect
+DrawBitmapRect
+DrawText
+DrawText
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawPatch
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache         16831488 / 75497472
+  LayerCache                  0 / 50331648
+  RenderBufferCache           0 /  8388608
+  GradientCache               0 /  1048576
+  PathCache                   0 / 33554432
+  TextDropShadowCache         0 /  6291456
+  PatchCache                192 /   131072
+  FontRenderer 0 A8     1048576 /  1048576
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total  1048576 /  1048576
+Other:
+  FboCache                    1 /       16
+Total memory usage:
+  17880256 bytes, 17.05 MB
+
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+

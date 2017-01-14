@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="5dip" />
+    <gradient
+        android:angle="90.0"
+        android:endColor="@color/search_people_interest_music"
+        android:startColor="@color/subject_movie_buy_ticket"
+        android:type="linear" />
+</shape>

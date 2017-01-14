@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:scrollbars="none">
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="8dip"
+            android:background="@android:color/white"
+            android:orientation="vertical">
+
+            <!--<com.dd.CircularProgressButton-->
+            <!--android:id="@+id/btnWithText"-->
+            <!--android:layout_width="196dp"-->
+            <!--android:layout_height="64dp"-->
+            <!--android:layout_marginTop="16dp"-->
+            <!--android:textColor="@color/white"-->
+            <!--android:textSize="18sp"-->
+            <!--app:cpb_textComplete="Complete"-->
+            <!--app:cpb_textError="Error"-->
+            <!--app:cpb_textIdle="Upload" />-->
+            <com.dd.CircularProgressButton
+                android:id="@+id/btnWithText"
+                android:layout_width="340dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="16dp"
+                android:background="@android:color/holo_orange_dark"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:cpb_cornerRadius="5dip"
+                app:cpb_selectorIdle="@drawable/idle_state_selector"
+                app:cpb_textComplete="完成"
+                app:cpb_textError="错误"
+                app:cpb_textIdle="这是购物车Fragemen，以后会改" />
+
+            <Button
+                android:layout_width="340dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/gradient_button_selector"
+                android:gravity="center"
+                android:text="我的社交tab1"
+                android:textColor="@android:color/primary_text_dark_nodisable"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <Button
+                android:layout_width="340dip"
+                android:layout_height="50dip"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/gradient_button_selector"
+                android:text="我关注的人"
+                android:textColor="@android:color/primary_text_dark_nodisable"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <Button
+                android:id="@+id/my_collect"
+                android:layout_width="340dip"
+                android:layout_height="50dip"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/gradient_button_selector"
+                android:text="帖子收藏"
+                android:textColor="@android:color/primary_text_dark_nodisable"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_width="340dip"
+                android:layout_height="50dip"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/gradient_button_selector"
+                android:text="关注的话题"
+                android:textColor="@android:color/primary_text_dark_nodisable"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/exit"
+                android:layout_width="340dip"
+                android:layout_height="50dip"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dip"
+                android:background="@drawable/gradient_button_selector"
+                android:text="退出登录"
+                android:textColor="@android:color/primary_text_dark_nodisable"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

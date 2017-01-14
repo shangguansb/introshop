@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\red_button_background.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_green.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_green.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\fab__gradient.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\fab__gradient.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_undobarfocused.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_kitkat_undobarfocused.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gradient5.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\button_gradient5.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\fab__gradient_light.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\fab__gradient_light.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_gray.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_gray.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_red.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_red.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_button_selector7.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\gradient_button_selector7.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_black.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_black.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_white.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_white.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_undobarselected.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_undobarselected.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_undobutton.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\selector_undobutton.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_kitkat_square_undobutton.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\selector_kitkat_square_undobutton.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\ab_background_gradient.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\ab_background_gradient.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_sigh.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\warning_sigh.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_purple.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_purple.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_button_selector1.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\gradient_button_selector1.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gradient4.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\button_gradient4.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_kitkat_undobutton.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\selector_kitkat_undobutton.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_gray.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_gray.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_button_background.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_green.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_green.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_button_selector3.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\gradient_button_selector3.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\cpb_background.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.dmytrodanylyk.circular-progress-button\\library\\1.1.3\\res\\drawable\\cpb_background.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_button_background.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\gray_button_background.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_red.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_red.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_black.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_black.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\error_center_x.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\error_center_x.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\error_circle.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\error_circle.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_square_undobarselected.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_kitkat_square_undobarselected.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_orange.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_orange.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_button_selector6.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\gradient_button_selector6.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gradient2.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\button_gradient2.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_background.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_button_selector4.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\gradient_button_selector4.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gradient8.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\button_gradient8.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_blue.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_blue.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_white.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_white.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gradient1.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\button_gradient1.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_orange.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_orange.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gradient7.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\button_gradient7.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_purple.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_purple.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_button_selector8.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\gradient_button_selector8.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_square_undobarfocused.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_kitkat_square_undobarfocused.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_button_selector5.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\gradient_button_selector5.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gradient6.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\button_gradient6.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\success_bow.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\success_bow.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_button_selector2.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\gradient_button_selector2.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_undobarfocused.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_undobarfocused.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_button_selector.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\gradient_button_selector.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gradient3.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\button_gradient3.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_circle.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\warning_circle.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_blue.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_blue.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gradient.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\src\\main\\res\\drawable\\button_gradient.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\success_circle.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\success_circle.xml"
+    },
+    {
+        "merged": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_undobarselected.xml",
+        "source": "I:\\software\\androidstudiospace\\IntroShop2\\introShop\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_kitkat_undobarselected.xml"
+    }
+]
